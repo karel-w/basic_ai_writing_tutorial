@@ -34,19 +34,9 @@ pip install jupyter
 python -m ipykernel install --user --name AI_tutorial
 ```
 
-## Important Considerations
-
-### GPU and PyTorch Installation
-
-- **Check GPU and CUDA Version**: 
-  - Verify your GPU and CUDA compatibility
-- **PyTorch Installation**: 
-  - Visit [PyTorch Official Website](https://pytorch.org/get-started/locally/)
-  - Select the appropriate version for your system
 
 ### Optional: VSCode and SSH Setup
-
+https://code.visualstudio.com/download
 - Configure VSCode remote SSH connection to local machine
 - Ensure proper SSH key setup and configuration
 
-**Note**: Always refer to the most recent documentation for the most up-to-date installation instructions.
